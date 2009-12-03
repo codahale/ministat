@@ -1,1 +1,8 @@
 ministat
+*.o
+*.in
+*.cache
+*.log
+*.status
+Makefile
+src/.deps
