@@ -1,6 +1,5 @@
 ministat
 *.o
-*.in
 *.cache
 *.log
 *.status
