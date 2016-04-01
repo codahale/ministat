@@ -15,6 +15,7 @@
 #include <unistd.h>
 #include <sys/ioctl.h>
 #include <sys/queue.h>
+#include <err.h>
 
 #define NSTUDENT 100
 #define NCONF 6
